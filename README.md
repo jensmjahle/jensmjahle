@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying [Computer Science](https://www.ntnu.no/studier/bidata)
 
-- 🌱 I’m currently learning **IFYT1002 Physics, IDATT2104 Network Programming, IDATT2105 Full-stack application development and IDATT2106 Software Engineering 2 with Agile project**
+- 🌱 I’m currently learning **Physics, Network Programming, Full-stack application development and Software Engineering 2 with Agile project**
 
 - 📫 How to reach me **jahlejensmartin@gmail.com**
 
