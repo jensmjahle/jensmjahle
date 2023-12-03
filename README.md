@@ -5,17 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jensmjahle&label=Profile%20views&color=0e75b6&style=flat" alt="jensmjahle" /> </p>
 
+
 - 🔭 I’m currently studying [Computer Science](https://www.ntnu.no/studier/bidata)
 
 - 🌱 I’m currently learning **IFYT1002 Physics, IDATT2104 Network Programming, IDATT2105 Full-stack application development and IDATT2106 Software Engineering 2 with Agile project**
-
-- 👯 I’m looking to collaborate on [fdbd](dfgfd)
 
 - 📫 How to reach me **jahlejensmartin@gmail.com**
 
 - 📄 Know about my experiences [fddsffds](fddsffds)
 
-- ⚡ Fun fact **I own a car with its own mini lawn**
+- ⚡ Fun fact **I own a car with its own mini lawn** [Don't trust me?](https://www.instagram.com/littlebigboxlife/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
