@@ -1,9 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://github.com/dashboard)
 <h1 align="center">Hi 👋, I'm Jens Martin Jahle</h1>
 <h3 align="center">A computer science student at Norwegian University of Science and Technology</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.hamyarit.com/wp-content/uploads/2019/02/programmers-1.gif-hamyarit.com-programmers-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jensmjahle&label=Profile%20views&color=0e75b6&style=flat" alt="jensmjahle" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jensmjahle&label=Profile%20views&color=0e75b6&style=flat" alt="jensmjahle" />
+  <img src="https://img.shields.io/github/stars/jensmjahle?label=Stars" alt="stars">
+  <img alt="followers" src="https://img.shields.io/github/followers/jensmjahle?label=Followers&style=social">
+</p>
 
 - 🔭 I’m currently studying [Computer Science](https://www.ntnu.no/studier/bidata)
 
@@ -33,9 +38,9 @@
 
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jensmjahle&show_icons=true&locale=en&layout=compact" alt="jensmjahle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jensmjahle&show_icons=true&locale=en" alt="jensmjahle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jensmjahle&" alt="jensmjahle" /></p>
+
