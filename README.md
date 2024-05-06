@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.hamyarit.com/wp-content/uploads/2019/02/programmers-1.gif-hamyarit.com-programmers-1.gif">
 
 <p align="left">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jensmjahle?style=plastic&color=green">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jensmjahle?style=plastic&color=red">
   <img src="https://komarev.com/ghpvc/?username=jensmjahle&label=Profile%20views&color=0e75b6&style=flat" alt="jensmjahle" />
-  <img src="https://img.shields.io/github/stars/jensmjahle?label=Stars" alt="stars">
-  <img alt="followers" src="https://img.shields.io/github/followers/jensmjahle?label=Followers&style=social">
 </p>
 
 - 🔭 I’m currently studying [Computer Science](https://www.ntnu.no/studier/bidata)
