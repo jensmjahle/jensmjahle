@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jens Martin Jahle</h1>
 <h3 align="center">A computer science student at Norwegian University of Science and Technology</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.hamyarit.com/wp-content/uploads/2019/02/programmers-1.gif-hamyarit.com-programmers-1.gif">
+<img align="right" alt="Coding" width="378" src="https://www.hamyarit.com/wp-content/uploads/2019/02/programmers-1.gif-hamyarit.com-programmers-1.gif">
 
 <p align="left">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/jensmjahle?style=plastic&color=green">
